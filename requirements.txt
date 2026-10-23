@@ -1,0 +1,8 @@
+openai>=1.50
+langchain>=1.0
+langchain-openai>=1.0
+pydantic>=2.7
+requests>=2.31
+yfinance>=0.2.50
+python-dotenv>=1.0
+pytest>=8.0

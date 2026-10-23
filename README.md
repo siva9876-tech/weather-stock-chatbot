@@ -168,8 +168,8 @@ From `requirements.txt`:
 
 ## Author
 
-Name : SIVA SHANKAR MAMIDISETTI
-Ph.No : 7330712258
-Email : sivamamidietti98765@gmail.com
+Name : SIVA SHANKAR MAMIDISETTI\
+Ph.No : 7330712258\
+Email : sivamamidietti98765@gmail.com\
 [LinkedIN](https://www.linkedin.com/in/siva-shankar-mamidisetti)
 
